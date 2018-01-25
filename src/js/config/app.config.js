@@ -1,5 +1,5 @@
 
-/*this is a test */
+/*this is a test 3*/
 import authInterceptor from './auth.interceptor'
 
 function AppConfig($httpProvider, $stateProvider, $locationProvider, $urlRouterProvider) {
