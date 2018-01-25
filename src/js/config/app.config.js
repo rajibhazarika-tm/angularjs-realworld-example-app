@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 /*this is a test 1*/
+=======
+/*this is a test 3*/
+>>>>>>> b975aae4f181a7257cd1069addf65cb690b7ee32
 import authInterceptor from './auth.interceptor'
 
 function AppConfig($httpProvider, $stateProvider, $locationProvider, $urlRouterProvider) {
