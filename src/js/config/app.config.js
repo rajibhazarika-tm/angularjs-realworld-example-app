@@ -1,3 +1,5 @@
+
+/*this is a test */
 import authInterceptor from './auth.interceptor'
 
 function AppConfig($httpProvider, $stateProvider, $locationProvider, $urlRouterProvider) {
